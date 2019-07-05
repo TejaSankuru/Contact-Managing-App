@@ -1,21 +1,11 @@
-# Contacts Project
+Contacts Project
+This repo is a code-along with the first project in the React Nanodegree program.
 
-This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
+This project was created in the classroom by React Allows you to add and delete contacts based on the API I applied what I learned in the classroom and I set up this small project, we used most of the things known in the React and also used the library React-router-dom to facilitate the movement between the pages
 
-Most of the commits in this repository correspond to videos in the program.
-
-## Project Setup
-
-* clone the Project - `git clone https://github.com/udacity/reactnd-contacts-complete.git`
-* install the dependencies - `npm install`
-
-## Contributing
-
-Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
-
-If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
-
-## Contributing
-
-MIT
-# Contact-Managing-App
+Project Setup
+Clone the Project - git clone https://github.com/jamalhassouni/reactnd-contacts-complete.git
+Go into the directory where the project now lives - cd reactnd-contacts-complete
+Install the dependencies - npm install
+Start the app - npm start
+you need also to run this contacts server from here reactnd-contacts-server..
