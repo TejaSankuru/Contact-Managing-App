@@ -1,7 +1,6 @@
 ## Contact-Managing-App
 
-This project is created by React
-Allows you to add and delete contacts based on the API
+This project is created by using React. It will allow you to add and delete contacts based on the API
 I applied what I learned and I set up this small project, I used most of the things known in the React and also used the library React-router-dom to facilitate the movement between the pages
 
 ### Project Setup
